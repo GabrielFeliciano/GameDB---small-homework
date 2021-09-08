@@ -1,0 +1,16 @@
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/bin/Debug/net5.0/GameDb
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/bin/Debug/net5.0/GameDb.deps.json
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/bin/Debug/net5.0/GameDb.runtimeconfig.json
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/bin/Debug/net5.0/GameDb.runtimeconfig.dev.json
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/bin/Debug/net5.0/GameDb.dll
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/bin/Debug/net5.0/ref/GameDb.dll
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/bin/Debug/net5.0/GameDb.pdb
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/obj/Debug/net5.0/GameDb.csproj.AssemblyReference.cache
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/obj/Debug/net5.0/GameDb.GeneratedMSBuildEditorConfig.editorconfig
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/obj/Debug/net5.0/GameDb.AssemblyInfoInputs.cache
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/obj/Debug/net5.0/GameDb.AssemblyInfo.cs
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/obj/Debug/net5.0/GameDb.csproj.CoreCompileInputs.cache
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/obj/Debug/net5.0/GameDb.dll
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/obj/Debug/net5.0/ref/GameDb.dll
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/obj/Debug/net5.0/GameDb.pdb
+/home/vsel/Documents/ETEFMC/GameDB/GameDb/obj/Debug/net5.0/GameDb.genruntimeconfig.cache
